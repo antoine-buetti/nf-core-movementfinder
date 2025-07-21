@@ -1,0 +1,7 @@
+name: movement_spotter
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - imagemagick

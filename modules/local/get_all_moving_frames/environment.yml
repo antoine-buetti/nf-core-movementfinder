@@ -1,0 +1,7 @@
+name: get_all_moving_frames
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - gawk

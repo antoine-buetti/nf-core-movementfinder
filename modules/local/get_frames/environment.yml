@@ -1,0 +1,7 @@
+name: get_frames
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - mplayer
